@@ -33,5 +33,5 @@ Check out a short video demo of the working project (attached in LinkedIn post).
 > This is part of my 100 Days of Code / Web Development learning journey. Feedback is welcome!
 
 ## 📬 Contact
-Let’s connect: [LinkedIn Profile](https://www.linkedin.com/in/your-link/)
+Let’s connect: [LinkedIn Profile](www.linkedin.com/in/niteeshayadav)
 
