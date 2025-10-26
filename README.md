@@ -25,8 +25,7 @@ Browse the code: [GitHub Repository](https://github.com/niteeshayadav/DOM-events
 - Git & GitHub
 - GitHub Pages
 
-## 📹 Preview
-Check out a short video demo of the working project (attached in LinkedIn post).
+
 
 
 
