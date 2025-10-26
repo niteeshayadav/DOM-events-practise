@@ -5,16 +5,16 @@ let currMode="light";
 let body=document.querySelector("body");
 modeBtn.addEventListener("click",()=>{
      if(currMode==="light"){
-        currMode="dark";
+        currMode="dark"; //To view in console
         body.classList.add("dark");
         body.classList.remove("light");
      }
      else{
-        currMode="light";
+        currMode="light"; //To view in console
         body.classList.add("light");
         body.classList.remove("dark");
      }
-     console.log(currMode);
+     console.log(currMode); //for viewing changing modes in console:- if dark,console prints 'light' and vice versa
 })
 
 
